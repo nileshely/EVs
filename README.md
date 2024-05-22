@@ -26,43 +26,33 @@ The dataset consists of 181,458 records with 17 columns. The columns include:
 #### Data Visualizations
 
 1. **Distribution of Electric Vehicle Types**
-   ![Distribution of Electric Vehicle Types](path_to_image)
    The dataset shows a higher count of Battery Electric Vehicles (BEVs) compared to Plug-in Hybrid Electric Vehicles (PHEVs), indicating a preference for fully electric vehicles among registrants in Washington State.
 
 2. **Electric Range Distribution**
-   ![Electric Range Distribution](path_to_image)
    The electric range of vehicles shows a diverse distribution with most vehicles offering a range between 50 to 300 miles. The histogram with a kernel density estimate highlights the central tendency around 200 miles.
 
 3. **Average Base MSRP by Electric Vehicle Type**
-   ![Average Base MSRP by Electric Vehicle Type](path_to_image)
    BEVs generally have a higher average MSRP compared to PHEVs. This is indicative of the technological and battery cost differences between the two types.
 
 4. **Count of Vehicles by Model Year**
-   ![Count of Vehicles by Model Year](path_to_image)
    Vehicle registration counts increase steadily over recent years, peaking in the latest model years, reflecting the growing adoption of electric vehicles.
 
 5. **Electric Range vs Base MSRP**
-   ![Electric Range vs Base MSRP](path_to_image)
    There is a positive correlation between electric range and base MSRP, with luxury brands typically providing higher range vehicles at a higher cost.
 
 6. **Distribution of Clean Alternative Fuel Vehicle (CAFV) Eligibility**
-   ![Distribution of CAFV Eligibility](path_to_image)
    The majority of the vehicles in the dataset are eligible for clean alternative fuel vehicle benefits, which suggests strong compliance with environmental standards.
 
 7. **Number of Vehicles by County**
-   ![Number of Vehicles by County](path_to_image)
    King County has the highest number of registered electric vehicles, followed by Pierce and Snohomish counties, indicating a higher adoption rate in urban and suburban areas.
 
 8. **Average Electric Range by Make**
-   ![Average Electric Range by Make](path_to_image)
    Tesla stands out with the highest average electric range among the top 10 makes, showcasing its market leadership in long-range electric vehicles.
 
 9. **Vehicle Counts by Legislative District**
-   ![Vehicle Counts by Legislative District](path_to_image)
    Legislative districts with urban centers show higher counts of registered electric vehicles, reflecting urban adoption trends.
 
 10. **Base MSRP Distribution by Make for Top 10 Makes**
-    ![Base MSRP Distribution by Make for Top 10 Makes](path_to_image)
     The boxplot shows a wide range of MSRP values across different makes, with Tesla and luxury brands having higher median MSRPs compared to other makes.
 
 #### Conclusion
